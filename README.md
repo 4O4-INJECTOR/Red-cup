@@ -62,3 +62,21 @@ Step 5: Run The Bot
 ```bash
 npm start
 ```
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+## ❤️ Support & Contributions
+
+Star ⭐ the repo if you like it.
+
+Fork and modify for your own use.
+
+Contributions via pull requests are welcome.
+
+
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+## 📄 License
+This project is licensed under the **MIT License**.  
+
