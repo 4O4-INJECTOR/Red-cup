@@ -24,21 +24,41 @@ The project is lightweight, fast and fully modular.
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 
-# ⚙️ Installation & Setup  
+## 🚀 Installation Guide (Termux)
 
-### TERMUX/KALI
+Follow these step-by-step commands to deploy the bot:
+
+### Step 1: Update & Install Required Packages
 ```bash
-pkg install nodejs
-git clone https://github.com/4O4-INJECTOR/Red-cup.git
-cd Red-cup
-npm install
-npm start
-node index.js
+pkg update && pkg upgrade -y
+pkg install nodejs -y
+pkg install git -y
+pkg install ffmpeg -y
+pkg install libwebp -y
+pkg install imagemagick -y
 ```
+
+> Tip: If prompted with "Do you want to continue? [Y/n]", type y and press Enter. ✅
+
+
+
 ---
 
-## TESTED 
-1) Termux
-2) Kali Linux
-
-
+Step 2: Clone Repo & Setup
+```bash
+git clone https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
+cd TAYYAB-HellBot
+termux-setup-storage
+```
+Step 3: Install Node Modules
+```bash
+npm install
+```
+Step 4: Clean Hidden Auth Files
+```bash
+rm -rf auth_info/*
+```
+Step 5: Run The Bot
+```bash
+npm start
+```
