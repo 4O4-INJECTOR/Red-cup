@@ -12,14 +12,17 @@ It is designed for research, automation development, and advanced scripting use-
 With RED CUP you can automate messaging, broadcast, manage groups, create tools and extend the bot using modules.  
 The project is lightweight, fast and fully modular.
 
----
 
-# 🌐 Official Links  
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-[▶️ YouTube Channel](https://www.youtube.com/@404-Injector)  
-[🎬 How To Use Video](https://youtu.be/UYW-Rjnv_U0?si=02nAidSZqLldpnnw)
+## 📹 Video Tutorials
 
----
+[![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
+
+[![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@404-Injector)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
 
 # ⚙️ Installation & Setup  
 
