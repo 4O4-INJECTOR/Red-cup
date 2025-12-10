@@ -19,13 +19,7 @@ The project is lightweight, fast and fully modular.
 
 # ⚙️ Installation & Setup  
 
-RED CUP requires NodeJS and npm.
-
----
-
-## 1) Install NodeJS
-
-### Kali Linux
+### TERMUX/KALI
 ```bash
 pkg install nodejs
 git clone https://github.com/4O4-INJECTOR/Red-cup.git
