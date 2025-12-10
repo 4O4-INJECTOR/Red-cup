@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=RED-CUP;CREATED+BY+TAYYAB+4O4-INJECTOR;A+WHATSAPP+TOOL;UNLIMITED+USAGE" alt="Animated Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=RED-CUP;CREATE+BY+TAYYAB+4O4-INJECTOR;A+WHATSAPP+TOOL;UNLIMITED+USAGE" alt="Animated Typing SVG" />
 </p>
 
 # 🚀 RED CUP  
@@ -19,7 +19,7 @@ The project is lightweight, fast and fully modular.
 
 [![Watch Video](https://img.shields.io/badge/Watch%20Video-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/4EK99IE4lTE)
 
-[![YouTube Channel](https://img.shields.io/badge/YouTube-Tayyab%20ExploitZ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@404-Injector)
+[![YouTube Channel](https://img.shields.io/badge/YouTube-404%20INJECTOR-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@404-Injector)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
