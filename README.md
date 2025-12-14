@@ -46,8 +46,8 @@ pkg install imagemagick -y
 
 Step 2: Clone Repo & Setup
 ```bash
-git clone https://github.com/TAYYAB-Exploits/TAYYAB-HellBot
-cd TAYYAB-HellBot
+git clone https://github.com/4O4-INJECTOR/Red-cup
+cd Red-cup
 termux-setup-storage
 ```
 Step 3: Install Node Modules
