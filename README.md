@@ -33,9 +33,6 @@ Follow these step-by-step commands to deploy the bot:
 pkg update && pkg upgrade -y
 pkg install nodejs -y
 pkg install git -y
-pkg install ffmpeg -y
-pkg install libwebp -y
-pkg install imagemagick -y
 ```
 
 > Tip: If prompted with "Do you want to continue? [Y/n]", type y and press Enter. ✅
